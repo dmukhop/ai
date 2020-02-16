@@ -1,0 +1,89 @@
+[{
+    "PATIENT_ID": "TCGA-06-5411",
+    "DRUG_ID": "1377",
+    "DRUG_NAME": "Afatinib",
+    "MODEL": "GBM",
+    "MODEL_TYPE": "CONDITION",
+    "LN_IC50": "0.246391",
+    "BINARY_RESPONSE": "R"
+}, {
+    "PATIENT_ID": "TCGA-A3-3358",
+    "DRUG_ID": "1377",
+    "DRUG_NAME": "Afatinib",
+    "MODEL": "KIRC",
+    "MODEL_TYPE": "CONDITION",
+    "LN_IC50": "1.246391",
+    "BINARY_RESPONSE": "S"
+}, {
+    "PATIENT_ID": "TCGA-AA-3663",
+    "DRUG_ID": "1378",
+    "DRUG_NAME": "Bleomycin (50 uM)",
+    "MODEL": "DNA replication",
+    "MODEL_TYPE": "PATHWAY",
+    "LN_IC50": "0.446391",
+    "BINARY_RESPONSE": "R"
+}, {
+    "PATIENT_ID": "TCGA-AZ-4315",
+    "DRUG_ID": "1494",
+    "DRUG_NAME": "SN-38",
+    "MODEL": "DNA replication",
+    "MODEL_TYPE": "PATHWAY",
+    "LN_IC50": "0.246391",
+    "BINARY_RESPONSE": "R"
+}, {
+    "PATIENT_ID": "TCGA-CA-6717",
+    "DRUG_ID": "1494",
+    "DRUG_NAME": "Olaparib",
+    "MODEL": "Genome integrity",
+    "MODEL_TYPE": "PATHWAY",
+    "LN_IC50": "1.146391",
+    "BINARY_RESPONSE": "R"
+}, {
+    "PATIENT_ID": "TCGA-CM-6162",
+    "DRUG_ID": "1529",
+    "DRUG_NAME": "Pevonedistat",
+    "MODEL": "Other",
+    "MODEL_TYPE": "PATHWAY",
+    "LN_IC50": "0.286791",
+    "BINARY_RESPONSE": "S"
+}, {
+    "PATIENT_ID": "TCGA-CN-5356",
+    "DRUG_ID": "1378",
+    "DRUG_NAME": "Bleomycin (50 uM)",
+    "MODEL": "HNSC",
+    "MODEL_TYPE": "CONDITION",
+    "LN_IC50": "0.946391",
+    "BINARY_RESPONSE": "R"
+}, {
+    "PATIENT_ID": "TCGA-CN-5360",
+    "DRUG_ID": "1530",
+    "DRUG_NAME": "PFI-3",
+    "MODEL": "HNSC",
+    "MODEL_TYPE": "CONDITION",
+    "LN_IC50": "0.4367391",
+    "BINARY_RESPONSE": "S"
+}, {
+    "PATIENT_ID": "TCGA-CR-7365",
+    "DRUG_ID": "59",
+    "DRUG_NAME": "WZ-1-84",
+    "MODEL": "Other, kinases",
+    "MODEL_TYPE": "PATHWAY",
+    "LN_IC50": "1.446391",
+    "BINARY_RESPONSE": "R"
+}, {
+    "PATIENT_ID": "TCGA-CV-7091",
+    "DRUG_ID": "235",
+    "DRUG_NAME": "QL-XII-47",
+    "MODEL": "HNSC",
+    "MODEL_TYPE": "CONDITION",
+    "LN_IC50": "2.246391",
+    "BINARY_RESPONSE": "R"
+}, {
+    "PATIENT_ID": "TCGA-E9-A1NH",
+    "DRUG_ID": "59",
+    "DRUG_NAME": "WZ-1-84",
+    "MODEL": "Other, kinases",
+    "MODEL_TYPE": "PATHWAY",
+    "LN_IC50": "0.246391",
+    "BINARY_RESPONSE": "R"
+}]
